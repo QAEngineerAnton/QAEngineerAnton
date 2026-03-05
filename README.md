@@ -7,4 +7,4 @@
 ![SQL](https://img.shields.io/badge/SQL-2b303b?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-2b303b?style=for-the-badge&logo=postman)
 
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=QAEngineerAnton&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=QAEngineerAnton&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
